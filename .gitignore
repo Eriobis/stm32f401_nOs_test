@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+*.depend
+*.cscope_file_list
+*.d
